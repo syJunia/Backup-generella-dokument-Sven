@@ -1,0 +1,42 @@
+Tele objektiv för att ha stor bländare och kort skärpedjup ger lung suddig bakgrund
+
+Motljus för att få bort skuggor i hårt ljus.
+
+Vidvinkel 14-16 mm ; foton nära objektet.
+
+Photoshop bearbetning - allt ok bara det talas om.
+
+amatör = kärlek
+
+
+
+Sharpening Soft Subjects
+Softer nature subjects, e.g. flowers, puppies, people, rainbows.
+Amount: 150%
+Radius: 1
+Threshold: 10
+ 
+Sharpening Portraits
+Close-up portraits
+Amount: 75%
+Radius: 2
+Threshold: 3
+ 
+Moderate Sharpening 
+Product shots, home interiors and exteriors, landscapes
+Amount: 225%
+Radius: 0.5
+Threshold: 0
+
+Maximum Sharpening 
+Visibly out-of-focus photos, photos with many well-defined edges, e.g. buildings, coins, cars, machinery
+Amount: 65%
+Radius: 4
+Threshold: 3
+
+All-Purpose Sharpening 
+Kelby's favourite. Subtle, so it can be applied twice if necessary.
+Amount: 85%
+Radius: 1
+Threshold: 4
+ 

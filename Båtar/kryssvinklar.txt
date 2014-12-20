@@ -1,0 +1,6 @@
+Kryssvinklar
+60 grader -> faktor nästan 2.0 
+55 -> 1.8
+45 -> 1.4
+35 -> 1.25
+30 -> 1.15

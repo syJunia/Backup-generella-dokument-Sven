@@ -1,0 +1,23 @@
+Soluto är ett program som används när datorn startar upp. Särskilt bra är programmet för den med sådan dator som har en lång uppstartsperiod. 
+Soluto identifierar vilka program som tar lång tid att starta upp och ger sedan möjligheten att stänga av dessa program i framtiden.
+
+Microsoft Security Essentials är ett antivirusprogram som är gratis, inklusive uppdateringar, och ger skydd mot nya virus och buggar.
+
+Ccleaner  hette från början Crap Cleaner. Program skannar din dator och visar onödiga filer, sådant som tillfälligt laddats ned samt sådana filer saknar ändamål. Genom att rensa blir datorn snabbare.
+
+Dropbox (eller Google Drive eller Microsoft SkyDrive). Att göra backups i det papperslösa samhället bör vara självklart för den moderna människan. Se till att inte bli av med alla barnbilder eller viktiga dokument bara för att de endast finns på ett ställe. Spara allt viktigt på minst två ställen.
+
+Prey är programmet som används om din dator blir stulen. Programmet tillåter dig att spåra datorn på en karta eller sätta på webbkameran så du kan se vem tjuven är.
+
+Ninite är en nedladdningsklient. En mer avancerad version för 10 dollar (alltså inte gratis) erbjuder funktioner som enkelt söker efter uppdateringar för redan nedladdade program.
+
+Open Office erbjuder det mesta du kan göra på den köpta version av Microsoft Office som inkluderar bland annat Word och Powerpoint, fast gratis online.
+
+7-Zip zippar upp komprimerade filer. Det finns andra gratisalternativ som WinRar och PeaZip. Men ett zip-program räcker för de allra flesta.
+
+VLC är den enda mediaspelaren du behöver. Den spelar alla nödvändiga format och startar snabbt. Jämfört med Itunes eller Windows Media Player är VLC ett
+ lätt program som bör vara default för att visa videoklipp på din Windows-burk.
+
+Google Music finns än så länge bara tillgängligt i USA, men bör släppas för svenska marknaden framgent.
+ Genom att ladda ner en uppladdningsklient tillåter programmet att spara hela ditt musikbibliotek online. 
+Det uppges vara rätt segt att ladda upp. Men när uppladdningen är avklarad har du ditt eget Spotify från valfri dator eller smart telefon med uppkoppling.
